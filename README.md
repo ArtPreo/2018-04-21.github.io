@@ -106,6 +106,5 @@
 		</div>
 	</div>
 	</footer>
-<img src="sample-site.png" alt="sample-site">
 </body>
 </html>
